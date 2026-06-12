@@ -1,0 +1,89 @@
+inde.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>hello</h1>
+    <h2>hello</h2>
+    <h3>hello</h3>
+    <h4>hello</h4>
+    <h5>hello</h5>
+    <h6>hello</h6>
+    <p>Lorem  dolor sit <b>amet</b> consectetur adipisicing elit. Dolores, <br> natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod ratione officia ducimus quidem natus dicta fugiat placeat consequuntur porro. Veritatis deserunt qui quis dolores incidunt adipisci expedita atque earum quibusdam laudantium voluptate rem eligendi fugiat inventore ratione deleniti aut quasi mollitia fugit, impedit dolorem? Quas quaerat voluptates cum deleniti saepe suscipit, debitis totam eligendi velit distinctio voluptas tempora unde neque maxime molestiae natus modi ratione animi in sed id enim provident! Assumenda officia voluptatum, veniam magni sequi, impedit sint velit nesciunt amet maiores repudiandae, molestias quisquam sed? Illum soluta vitae perspiciatis facilis exercitationem. Pariatur iure quo perspiciatis impedit molestias nisi?</p>
+<hr>
+    <pre>அகர முதல எழுத்தெல்லாம் ஆதி
+பகவன் முதற்றே உலகு</pre>
+<i>divyabarathi</i>
+<em>hello</em>
+<strong>muthamil</strong><b>selvi</b>
+<a href="https://livewiresalem.com/">livewiresalem</a>
+x <sup>2</sup>
+log <sub>10</sub>
+<img src="./posing-women-in-photos.webp" alt="women.png" width="200px">
+<img src="https://www.befunky.com/images/wp/wp-2023-11-nature-photography-featured.jpg?auto=avif,webp&format=jpg&width=1136&crop=16:9" alt="" height="300px">
+</body>
+</html>
+
+----------------------------------------------------------------------
+css
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1{
+            color:rgb(167, 82, 22);
+            background-color: rgb(221, 221, 99);
+            text-align: center;
+            border: 3px solid rgb(41, 38, 38);
+            padding-right: 200px;
+        }
+        div{
+            width: 300px;
+            height: 300px;
+            background-color: red;
+            padding: 20px;
+        }
+        img{
+            width: 250px;
+            height: 250px;
+            padding: 25px;
+            margin-left:200px
+        }
+    </style>
+</head>
+<body>
+    <h1> keerthi saravanan</h1>
+    <div><img src="./posing-women-in-photos.webp" alt=""></div>
+</body>
+</html>
+---------------------------------------------------------------
+types of css
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./a.css">
+    <style>
+        h1{
+            background-color: burlywood;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="color: red;">hello</h1>
+    <h1>welcome</h1>
+</body>
+</html>
+css file
+h1{
+    border: 2px solid black;
+}
