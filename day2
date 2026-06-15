@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* ul{
+            list-style-type:none;
+            display: flex;
+            gap: 20px;
+            justify-content: space-evenly;
+        }
+        ol{
+            list-style-type:upper-roman;
+        } */
+    </style>
+</head>
+
+
+<body>
+    <!-- form -->
+     <form action="./index.html">
+        <label for="">NAME</label><INPUT type="text"></INPUT><br>
+        <LAbel>age</LAbel><input type="number">
+        <input type="checkbox" name="male" id=""><label for="">male</label>
+     <input type="color" name="" id="">
+     <input type="date" name="" id="">
+     <input type="datetime" name="" id="">
+     <input type="email" name="" id="" placeholder="email">
+    <input type="file" name="" id="">
+    <input type="image" src="./h.png" width="200px" alt="" placeholder="sdsd">
+    <input type="month" name="" id="">
+    <input type="password" name="" id="">
+    <input type="radio" name="" id="" value="">
+    <input type="radio" name="" id="" value="1">
+    <input type="reset" value="hii ">
+        <input type="time" name="" id="">
+        <button type="submit">submit</button>
+</form>
+
+
+
+
+
+
+    <!-- <ul>
+        <li>apple</li>
+        <li>banana</li>
+        <li>grapes</li>
+        <li>strawberry</li>
+        <li>blueberry</li>
+    </ul>
+    <ol>
+        <li>orange</li>
+        <li>mango</li>
+        <li>guava</li>
+        <li>kiwi</li>
+        <li>papaya</li>
+        <li>star fruit</li>
+
+    </ol>
+    <dl>para
+            <dd>hi</dd>
+            <dd>hello</dd>
+    </dl> -->
+</body>
+</html>
