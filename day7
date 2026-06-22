@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="show"></h1>
+    <input type="text" id="name">
+    <button onclick="demo()">hi </button>
+   <script>
+ var a=10;
+ let d=90;
+ s=90;
+ document.write(a,"<br>");
+ document.write(d,s);
+ document.write("<h1>hello</h1>")
+ document.getElementById("show").innerHTML="sharmi";
+ function demo(){
+    s=document.getElementById("name").nodeValue;
+    document.write(s,"hi");
+ }
+
+   </script> 
+</body>
+</html>
