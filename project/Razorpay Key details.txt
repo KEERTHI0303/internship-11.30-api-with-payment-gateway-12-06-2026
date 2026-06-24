@@ -1,0 +1,5 @@
+
+Razorpay Key
+
+KEY ID:  rzp_test_T0HMCf6l69Cxdi
+KEY Secret: ••••••••••••••••••••••••
